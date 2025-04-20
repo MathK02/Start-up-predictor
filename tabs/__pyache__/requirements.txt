@@ -1,0 +1,8 @@
+folium==0.18.0
+matplotlib==3.9.2
+networkx==3.3
+pandas==2.2.3
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
+scikit_learn==1.5.2
+seaborn==0.13.2
